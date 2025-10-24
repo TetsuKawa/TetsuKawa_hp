@@ -1,5 +1,5 @@
-name: project-name
-version: ~
-title: Project Name
+name: TetsuKawa-HP
+version: latest
+title: TetsuKawa Docs
 nav:
 - modules/ROOT/nav.adoc
