@@ -1,11 +1,13 @@
 site:
   title: Kawaguchi Docs
-  url: https://tetsukawa.github.io/TetsuKawa_jp
+  url: https://tetsukawa.github.io/TetsuKawa_hp
   start_page: TetsuKawa_hp::index.adoc
 content:
   sources:
   - url: .
     branches: HEAD
+    start_path: .
+    worktree: true
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
