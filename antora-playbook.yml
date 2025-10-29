@@ -5,7 +5,7 @@ site:
 content:
   sources:
   - url: .
-    branches: HEAD
+    branches: main 
     start_path: .
     worktree: true
 ui:
