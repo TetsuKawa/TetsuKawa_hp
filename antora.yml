@@ -1,5 +1,5 @@
 name: TetsuKawa_hp
-version: latest
+version: v0.2
 title: TetsuKawa Docs
 nav:
 - modules/ROOT/nav.adoc
