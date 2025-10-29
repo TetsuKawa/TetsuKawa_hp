@@ -1,6 +1,6 @@
-* xref:new-page.adoc[]
+* xref:new-page.adoc[新しいページ]
 
 .include 背景の説明
-* xref:haikei/haikei1.adoc[]
-* xref:haikei/haikei2.adoc[]
+* xref:haikei/haikei1.adoc[背景1]
+* xref:haikei/haikei2.adoc[背景2]
 
