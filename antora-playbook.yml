@@ -4,7 +4,7 @@ site:
   start_page: TetsuKawa_hp::index.adoc
 content:
   sources:
-  - url: .
+  - url: https://github.com/TetsuKawa/TetsuKawa_hp.git
     branches: [ main, v0.2 ]
     start_path: .
 ui:
